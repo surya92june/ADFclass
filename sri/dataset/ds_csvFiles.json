@@ -10,6 +10,7 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobStorageLocation",
+				"fileName": "sri.csv",
 				"container": "srifolder"
 			},
 			"columnDelimiter": ",",
